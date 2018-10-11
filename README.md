@@ -1,5 +1,5 @@
-# KualaLumpur (Core Java 8.0)
-Code Samples for the Blog Article [Java SE 8... What's New?] 
+# Singapore (Core Java 9.0)
+Code Samples for the Blog Article [Java SE 9... What's New? (Code Samples-01/02)] 
 <br>
 
 MIT License
@@ -13,12 +13,12 @@ https://github.com/sumithpuri
 <br>
 
 	
-|Project Codename|KualaLumpur|
+|Project Codename|Singapore|
 |--|--|
-| Blog Post URL | http://www.techilashots.com/2015/05/java-se-8-whats-new-part-0404.html |
-|Blog Short URL	|https://goo.gl/8YBWTk |
-|Package Prefix|me.sumithpuri.github.kualalumpur |
-|GitHub URL|https://github.com/sumithpuri/skp-code-marathon-kualalumpur |
+| Blog Post URL | http://www.techilashots.com/2018/09/java-se-9-whats-new-code-samples-0102.html |
+|Blog Short URL	|https://goo.gl/dpxjEU |
+|Package Prefix|me.sumithpuri.github.singapore |
+|GitHub URL|https://github.com/sumithpuri/skp-code-marathon-singapore |
 |Contact E-Mail  |code@sumithpuri.me|
 |Contact Number|+91 9591497974 (WhatsApp, Viber)|
 
