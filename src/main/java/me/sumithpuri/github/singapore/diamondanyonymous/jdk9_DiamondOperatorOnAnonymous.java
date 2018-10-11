@@ -9,7 +9,7 @@ import java.io.Serializable;
 
  * GitHub URL 			https://github.com/sumithpuri
  * Blog Post URL		http://www.techilashots.com/2018/09/java-se-9-whats-new-code-samples-0102.html	
- * Blog Short URL		https://goo.gl/8YBWTk
+ * Blog Short URL		https://goo.gl/dpxjEU
  * Package Prefix 		me.sumithpuri.github.singapore
  * Project Codename		singapore
  * Contact E-Mail		code@sumithpuri.me

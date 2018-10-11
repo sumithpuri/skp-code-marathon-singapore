@@ -24,7 +24,7 @@ import me.sumithpuri.github.singapore.tryresources.jdk9_EffectivelyFinalTryResou
 
  * GitHub URL 			https://github.com/sumithpuri
  * Blog Post URL		http://www.techilashots.com/2018/09/java-se-9-whats-new-code-samples-0102.html	
- * Blog Short URL		https://goo.gl/8YBWTk
+ * Blog Short URL		https://goo.gl/dpxjEU
  * Package Prefix 		me.sumithpuri.github.singapore
  * Project Codename		singapore
  * Contact E-Mail		code@sumithpuri.me
@@ -63,7 +63,7 @@ public class jdk9_Singapore {
 		System.out.println("Project Codename      Singapore");
 		System.out.println("Project Description   Java 9 Companion Code Samples");
 		System.out.println("Technical Blog        http://www.techilashots.com");
-		System.out.println("Technical Blog Post   https://goo.gl/8YBWTk");
+		System.out.println("Technical Blog Post   https://goo.gl/dpxjEU");
 		System.out.println();
 		
 		jdk9_Singapore java9Application = new jdk9_Singapore();
