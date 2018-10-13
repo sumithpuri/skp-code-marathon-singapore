@@ -64,6 +64,7 @@ public class jdk9_Singapore {
 		System.out.println("Project Description   Java 9 Companion Code Samples");
 		System.out.println("Technical Blog        http://www.techilashots.com");
 		System.out.println("Technical Blog Post   https://goo.gl/dpxjEU");
+		System.out.println("[Developer Notes]     [01] Use Java Version 9.0+ Compiler");
 		System.out.println();
 		
 		jdk9_Singapore java9Application = new jdk9_Singapore();
