@@ -1,6 +1,3 @@
-/**
- * 
- */
 package me.sumithpuri.github.singapore.main;
 
 import java.io.IOException;
