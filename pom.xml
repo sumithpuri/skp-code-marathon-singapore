@@ -8,7 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>skp-code-marathon-singapore</name>
+	<name>Singapore : Java SE 9 Code Samples (01/02)</name>
 	<url>http://maven.apache.org</url>
 
 
@@ -67,4 +67,5 @@
 			</plugin>
 		</plugins>
 	</build>
+	<description>Code Samples for the Blog Article [Java SE 9... What's New? (01/02)]</description>
 </project>
