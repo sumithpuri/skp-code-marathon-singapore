@@ -10,6 +10,7 @@ https://github.com/sumithpuri
 </p>
 
 <hr>
+<div align="center">	
 	
 |Project Codename|Singapore|
 |--|--|
@@ -19,7 +20,10 @@ https://github.com/sumithpuri
 |GitHub URL|https://github.com/sumithpuri/skp-code-marathon-singapore |
 |Contact E-Mail  |code@sumithpuri.me|
 |Contact Number|+91 9591497974 (WhatsApp, Viber, Telegram)|
-|Historical|✅ Started this Movement of 1000s of Lines of Java/EE* Code to GitHub<br />✅ Was a Senior Software Architect (Java/EE) in Manila*, 2018 (At Start)<br />✅ Named this Initial Code Journey as [ <b>Manila Code Marathon - 2018</b> ]<br />✅ Code Is Non-Proprietary / Non-Copyright from my Work Experience+<br />✅ Was Back to Bangalore, Named as [ <b>Bangalore Code Nights - 2019</b> ]<br />✅ Added More Code under <b>[ 20 Days of Code in Benglauru ] in 2020</b><br />✅ Celebration of Java/Java EE Code as Java Turned 25 in the Year 2020 |
+|Historical|✅ Started this Movement of 1000s of Lines of Java/EE* Code to GitHub<br />✅ Was a Senior Software Architect (Java/EE) in Manila*, 2018 (At Start)&nbsp; <br />✅ Named this Initial Code Journey as [ <b>Manila Code Marathon - 2018</b> ]<br />✅ Code Is Non-Proprietary / Non-Copyright from my Work Experience. <br />✅ Was Back to Bangalore, Named as [ <b>Bangalore Code Nights - 2019.</b> ]<br />✅ Added More Code under <b>[ -20 Days of Code in Benglauru- ]</b> in 2020  <br />✅ Celebration of Java/Java EE Code as Java Turned 25 in the Year 2020! |
+	
+
+</div>	
 <hr>
 
 <div align='center'>
