@@ -1,7 +1,7 @@
 # Singapore (Core Java 9.0)
 Code Samples for the Blog Article [Java SE 9... What's New? (Code Samples-01/02)] 
 <br>
-MIT License, Copyright (c) 2018-19, <a href="https://www.techcto.online/">Sumith Kumar Puri</a><br>
+MIT License, Copyright (c) 2018-19, <a href="http://www.techcto.online/">Sumith Kumar Puri</a><br>
 https://github.com/sumithpuri 
 <br>
 
